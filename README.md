@@ -29,5 +29,5 @@ Tools
 <p>
   
   <span hspace="5" height="300">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1cto-r&layout=compact&theme=dark)</span>
-  <span hspace="5" height="300">![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1cto-r&show_icons=true&theme=dark&hide=stars,prs)</span>
+  <span hspace="5" height="300">![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1cto-r&show_icons=true&theme=dark&hide=issues,prs)</span>
 </p>
