@@ -2,11 +2,11 @@
 
 Languages
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/typescript.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/javascript.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/python.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/php.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/java.svg" width="32" height="32" hspace="5"/>
 </p>
 Tools
 <p float=""left>
