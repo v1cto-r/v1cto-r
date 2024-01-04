@@ -10,19 +10,21 @@ Languages
 </p>
 Tools
 <p float=""left>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/anaconda.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/css3.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/html5.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/figma.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/flask.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/inkscape.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/jupyter.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/mongodb.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/mysql.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/photoshop.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/postman.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/react.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/vite.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/vscode.svg" width="32" height="32" hspace="5"/>
+  <img src="./img/solidworks.svg" hspace="5"/>
 </p>
 
 
